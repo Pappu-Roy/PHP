@@ -36,6 +36,9 @@
     var_dump(true);
     var_dump([2, 3, 56]);
     var_dump(NULL);
+    echo "<br>";
+    $cars = array("Volvo","BMW","Toyota");
+    var_dump($cars);
 
     $x = $y = $z = 50;
     Echo "<br>$x $y $z";    // PHP is not a case sensitive language
